@@ -46,7 +46,6 @@
         android:layout_alignParentRight="false"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="false"
-        android:layout_alignRight="@+id/separator"
         android:layout_below="@+id/scanParameters"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
