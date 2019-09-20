@@ -217,7 +217,6 @@
     <string name="rpcd_stopped">Metasploit RPCD остановлен</string>
     <string name="rpcd_running">Metasploit RPCD уже запущен</string>
     <string name="rpcd_timedout">Metasploit RPCD не отвечает</string>
-    <string name="error_rcpd_fatal">Произошла критическая ошибка, пожалуйста отправьте отчет об ошибке моим разработчикам. Если я не хочу закрываться, пожалуйста, закройте меня через системные настройки (Настройки -&gt; Приложения) и СООБЩИТЕ ОБ ЭТОМ РАЗРАБОТЧИКАМ.</string>
     
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">Простой сниффинг</string>

@@ -213,10 +213,6 @@ If not, see http://www.gnu.org/licenses/.
     <string name="rpcd_stopped">Metasploit 远程过程调用守护程序已经停止</string>
     <string name="rpcd_running">Metasploit 远程过程调用守护程序已经运行中</string>
     <string name="rpcd_timedout">Metasploit 远程过程调用守护程序没有响应</string>
-<string name="error_rcpd_fatal">发生致命错误，正在准备发送错误报告给我的开发者。
-如果应用程序没有自己关闭，请通过选项->应用关闭，
-并通知我的开发者。
-</string>
 
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">简易嗅探</string>

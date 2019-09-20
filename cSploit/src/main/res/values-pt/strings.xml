@@ -210,10 +210,6 @@
     <string name="rpcd_stopped">Metasploit RPCD Parado</string>
     <string name="rpcd_running">Metasploit RPCD já está em execução</string>
     <string name="rpcd_timedout">Metasploit RPCD não responde</string>
-    <string name="error_rcpd_fatal">Ocorreu um erro fatal, Estou procurando esse bug para enviá-lo aos meus colaboradores.
-        se eu não sair por favor, feche-me pela preferências-&gt;applicações,
-        e alerta meus desenvolvedores.
-    </string>
 
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">Sniff Simples</string>

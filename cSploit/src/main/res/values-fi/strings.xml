@@ -236,10 +236,6 @@
     <string name="rpcd_stopped">MetaSploit RPCD lopetettu</string>
     <string name="rpcd_running">MetaSploit RPCD on jo käynnissä</string>
     <string name="rpcd_timedout">MetaSploit RPCD ei vastaa</string>
-    <string name="error_rcpd_fatal">Tappava virhe tapahtui!, Etsin tätä virhettä, joten lähetä se kehittäjilleni.
-        jos en sulkeudu, sulje minut Asetukset->sovellukset->cSploit "Pakota Lopetus",
-        ja ILMOITA KEHITTÄJILLENI.
-    </string>
 	
     <!-- Mies-välissä moduulit -->
     <string name="mitm_simple_sniff">Yksinkertainen nuuhkiminen</string>

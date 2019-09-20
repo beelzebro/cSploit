@@ -194,7 +194,6 @@
     <string name="rpcd_stopped">MetaSploit RPCD detenido</string>
     <string name="rpcd_running">MetaSploit RPCD ya está en ejecución</string>
     <string name="rpcd_timedout">MetaSploit RPCD no responde</string>
-    <string name="error_rcpd_fatal">Ha ocurrido un error fatal. Estoy buscando ese error para enviarlo a mis desarrolladores. Si no es posible salir, por favor ciérrame desde Preferencias->Aplicaciones y ALERTE A MIS DESARROLLADORES.</string>
 
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">Sniffer simple</string>

@@ -222,10 +222,6 @@
     <string name="rpcd_stopped">Metasploit RPCD zatrzymany</string>
     <string name="rpcd_running">Metasploit RPCD już działa</string>
     <string name="rpcd_timedout">Metasploit RPCD nie odpowiada</string>
-    <string name="error_rcpd_fatal">wystąpił fatalny błąd, szukam tego buga, żeby wysłać go do moich twórców.
-        jeśli nie wyjdę, proszę zamknij mnie przez ustawienia->aplikacje
-        i POWIADOM MOICH TWÓRCÓW.
-    </string>
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">Simple Sniff</string>
     <string name="mitm_simple_sniff_desc">Przekieruj ruch celu przez to urządzenie i pokaż pewne statystyki podczas zrzucania do pliku pcap.</string>

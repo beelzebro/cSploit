@@ -89,7 +89,6 @@
     <string name="error_occured">Een fout is voorgekomen tijdens het downloaden van de update.</string>
     <string name="error_port_outofrange">De port is buiten bereik.</string>
     <string name="error_proxy_port">Wat nodig is voor de transparante proxy wordt gebruikt door een ander proces, wil je applicatiebeheer opstarten?</string>
-    <string name="error_rcpd_fatal">Er is een fatale fout opgetreden.</string>
     <string name="error_rpc">RPC fout</string>
     <string name="error_rpcd_inval">Slechte instellingen</string>
     <string name="error_rpcd_shell">Kan de shell niet uitvoeren</string>

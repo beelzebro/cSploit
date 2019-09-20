@@ -221,10 +221,6 @@
     <string name="rpcd_stopped">Metasploit durduruldu</string>
     <string name="rpcd_running">Metasploit zaten çalışır durumda</string>
     <string name="rpcd_timedout">Metasploit yanıt vermiyor</string>
-    <string name="error_rcpd_fatal">hata oluştu, tespit edilip geliştirice yollamak için tarıyorum.
-        Eğer ben kapanmıyorsam beni Sistem Tercihleri>Uygulamalar dan zorla kapatabilirsin.
-        ve Lütfen geliştiricimi uyar.
-    </string>
 
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">Basit Dinleme</string>

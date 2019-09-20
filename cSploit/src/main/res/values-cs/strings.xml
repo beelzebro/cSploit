@@ -229,10 +229,6 @@
     <string name="rpcd_stopped">Metasploit RPCD vypnut</string>
     <string name="rpcd_running">Metasploit RPCD již běží</string>
     <string name="rpcd_timedout">Metasploit RPCD neodpovídá</string>
-    <string name="error_rcpd_fatal">fatální chyba, hledám chybu pro poslání logu vývojářovi
-        pokud se nevypnu, vypněte mě z Nastavení->Aplikace,
-        a DEJTE VĚDĚT MÉMU VÝVOJÁŘI.
-    </string>
 
     <!-- mitm moduly -->
     <string name="mitm_simple_sniff">Jednoduché šmírování</string>

@@ -233,10 +233,6 @@
     <string name="rpcd_stopped">Metasploit RPCD zaustavljen</string>
     <string name="rpcd_running">Metasploit RPCD je već pokrenut</string>
     <string name="rpcd_timedout">Metasploit RPCD ne reagira</string>
-    <string name="error_rcpd_fatal">Fatalna greška se pojavila, upravo pretražujem grešku da je pošaljem mojem razvijatelju,
-        ako se ne ugasim ugasi me preko postavke->aplikacije,
-        i UPOZORI MOJE RAZVIJATELJE.
-    </string>
 
     <!-- mitm modules -->
     <string name="mitm_simple_sniff">Jednostavno Osluškivanje</string>

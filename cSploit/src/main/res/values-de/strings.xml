@@ -301,7 +301,6 @@
     <string name="crash_dialog_comment">Du kannst unten ein Kommentar über das Problem hinzufügen</string>
     <string name="JNI_crash_detected">Die JNI Bibliothek ist zuvor abgestürzt. Ich hoffe du sendest einen Bericht.</string>
     <string name="choose_an_option">Wähle eine Option</string>
-    <string name="error_rcpd_fatal">Fataler Fehler aufgetreten. Ich suche nach dem Fehler und sende einen Bericht an meine Entwickler.</string>
     <string name="error_rpc">RPC Fehler</string>
     <string name="error_rpcd_inval">Falsche Einstellungen</string>
     <string name="error_rpcd_shell">Die Shell konnte nicht ausgeführt werden.</string>
